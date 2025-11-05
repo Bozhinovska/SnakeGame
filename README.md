@@ -48,8 +48,8 @@ The player controls a snake that moves around the screen, eats food to grow, and
 
 | Key             | Action     |
 | --------------- | ---------- |
-| W / Up Arrow    | Move Up    |
-| S / Down Arrow  | Move Down  |
-| A / Left Arrow  | Move Left  |
-| D / Right Arrow | Move Right |
+| Up Arrow        | Move Up    |
+| Down Arrow      | Move Down  |
+| Left Arrow      | Move Left  |
+| Right Arrow     | Move Right |
 
