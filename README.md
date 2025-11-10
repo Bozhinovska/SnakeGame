@@ -9,7 +9,6 @@ The player controls a snake that moves around the screen, eats food to grow, and
 * Snake grows after eating food
 * Score tracking and display
 * Collision detection (with wall or self)
-* Option to restart the game after losing
 
 
 ## Technologies Used
