@@ -26,12 +26,12 @@ The player controls a snake that moves around the screen, eats food to grow, and
    ```bash
    git clone https://github.com/Bozhinovska/SnakeGame.git
    ```
-3. Navigate to the project folder:
+2. Navigate to the project folder:
 
    ```bash
    cd snake_game
    ```
-4. Run the game:
+3. Run the game:
 
    ```bash
    python main.py
